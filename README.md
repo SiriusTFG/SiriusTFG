@@ -9,7 +9,7 @@
 <p align="left">
 <img src="https://raw.githubusercontent.com/SiriusTFG/SiriusTFG/main/Icons/Ada.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="height: 4rem"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" style="height: 4rem" />
+<img src="https://raw.githubusercontent.com/SiriusTFG/SiriusTFG/main/Icons/Java.svg" style="height: 4rem" />
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
