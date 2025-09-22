@@ -7,7 +7,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b> 𝘓𝘦𝘯𝘨𝘶𝘢𝘨𝘦𝘴</b>
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/SiriusTFG/SiriusTFG/main/Ada.svg" style="height: 4rem"/>
+<img src="https://raw.githubusercontent.com/SiriusTFG/SiriusTFG/main/Icons/Ada.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="height: 4rem"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" style="height: 4rem" />
 
